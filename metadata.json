@@ -1,0 +1,6 @@
+{
+  "name": "NexusCAD Engineering Delivery OS",
+  "description": "High-tech Engineering Delivery OS featuring an interactive 3D CAD modeling studio, AI-assisted parametric model composer grounded in Shigley, Pahl & Beitz, and ASME Y14.5 standards, FEA stress analysis, and systematic textbook design workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
